@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Shaylee1107
+- 👀 I’m interested in coding/programming, creating, and learning
+- 🌱 I’m currently learning how to build a react web application for job searching with an API. 
+- 💞️ I’m looking to collaborate on projects to make the world a little easier for users with HTML, CSS, JavaScript, and React.JS
+- 📫 How to reach me on LinkedIn: https://www.linkedin.com/in/shaylee-baumgartner-900a69284/
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I am graduating soon for Springboard with my Software Engineering Certification! 
